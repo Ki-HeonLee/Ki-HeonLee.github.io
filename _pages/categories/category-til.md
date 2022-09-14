@@ -1,7 +1,7 @@
 ---
 title: 'TIL (Today I Learned)'
 layout: archive
-permalink: /categories/til
+permalink: categories/til
 author_profile: true
 sidebar_main: true
 ---

@@ -4,8 +4,8 @@ main:
     url: /index.html
   #- title: "About"
   #url: /about/
-  - title: 'Category'
-    url: /categories/
+  #- title: 'Category'
+  #url: /categories/
   #- title: "Tag"
   #url: /tags/
   #- title: "Post by Year"
