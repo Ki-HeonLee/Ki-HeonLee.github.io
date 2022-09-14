@@ -104,9 +104,9 @@ analytics:
 # Site Author
 author:
   name: 'Ki Heon, Lee 😎'
-  avatar: 'image/profile/2021me.jpeg'
+  avatar: 'image/profile/2021me.jpg'
   bio: '묵묵히 꾸준하게 <br/> 반갑습니다 :)'
-  location: 'Seoul, South Koerea'
+  location: 'Seoul'
   email:
   links:
     - label: 'Email'
