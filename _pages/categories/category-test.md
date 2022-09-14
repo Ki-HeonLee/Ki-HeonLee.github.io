@@ -1,7 +1,7 @@
 ---
 title: '자료구조와 알고리즘 (with Javascript)'
 layout: archive
-permalink: /categories/test
+permalink: categories/test
 author_profile: true
 sidebar_main: true
 ---
