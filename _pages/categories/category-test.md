@@ -1,5 +1,5 @@
 ---
-title: '자료구조와 알고리즘 (with Javascript)'
+title: '자료구조와 알고리즘, 코딩테스트 (with Javascript)'
 layout: archive
 permalink: categories/test
 author_profile: true
