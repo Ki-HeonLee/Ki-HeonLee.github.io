@@ -21,7 +21,7 @@
         <span class="nav__sub-title">Coding Test</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Algorithm" %}
+                    {% if category[0] == "test" %}
                         <li><a href="/categories/test" class="">알고리즘 구현 (with Javascript) ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
